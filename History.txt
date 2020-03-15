@@ -1,0 +1,70 @@
+    1  git init 
+    2  ls -la
+    3  ls -l
+    4  pwd
+    5  clear
+    6  nano
+    7  git status
+    8  git add V*.*
+    9  git add Virus
+   10  git status
+   11  clear
+   12  git config -- global user.name "Bibhuti"
+   13  git config --global user.name 'Bibhu'
+   14  git config --global user.email "bibhuti.kar@viteos.com"
+   15  git config --list
+   16  clear
+   17  git commit -m "Version-1"
+   18   git status
+   19  git log
+   20  nano Virus
+   21  git status
+   22  git add .
+   23  git staus
+   24  git status
+   25  git commit -m "Version-2"
+   26  git status
+   27  git log
+   28  git difftool -y 1f59f16
+   29  git difftool -y 1f59f1697 4aa4dd41b
+   30  exit
+   31  nano virus
+   32  nano Virus
+   33  nano virus
+   34  git add .
+   35  git status
+   36  git commit -m "Version-3"
+   37  git log
+   38  git difftool 76d8d1ff3d73 4aa4dd41b0762df
+   39  vi Virus
+   40  vi Virus
+   41  vi Virus
+   42  nano Virus
+   43  ls *.*
+   44  ls
+   45  ls *
+   46  ls v*
+   47  ls V*
+   48  ls -la
+   49  hist
+   50  history
+   51  clear
+   52  quit
+   53  exit
+   54  exit
+   55  git clone
+   56  clear
+   57  git clone https://github.com/Pari-2014/java.git
+   58  ls -la
+   59  ls -la
+   60  cd java
+   61  ls -la
+   62  clear
+   63  git remote -v
+   64  nano AboutUs
+   65  git add .
+   66  git commit -m "Remote Version 1"
+   67  git status
+   68  git remote -v
+   69  git push origin
+   70  history > History.txt
